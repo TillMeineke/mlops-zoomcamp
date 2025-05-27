@@ -26,4 +26,4 @@ this is what we will use when generating certificates for you.
 
 ## Evaluation criteria
 
-See [here](../../../07-project/README.md)
+See [here](../../07-project/README.md#evaluation-criteria)
